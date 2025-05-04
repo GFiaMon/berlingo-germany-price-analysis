@@ -70,6 +70,5 @@ berlingo-germany-price-analysis/
 ---
 
 ## 🔗 Data Sources  
-- **Autoscout24**: Scraped listings for Citroën Berlingo (2012–2025) in Germany.  
-```
+- **Autoscout24**: Scraped listings for Citroën Berlingo (2012–2025) in Germany.
 
